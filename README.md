@@ -1,5 +1,12 @@
 # my-awesome-project 🚀
 
+## achievements
+
+J'ai réussi à faire clone, pull et je m'apprête à faire push
+
+____________________________________________________________________________________________________
+
+
 ## This awesome project is created to experiment git notions like clone, push and pull
 
 Welcome to this awesome project created for experimenting with Git notions like clone, push, and pull! 🎉
